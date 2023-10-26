@@ -26,6 +26,7 @@ d.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 	l.clickSubmitButton();
 	Homepage h=new Homepage(d);
 	h.clickoInc();
+	System.out.println("github commit demom");
 	}
 
 }
